@@ -3,3 +3,4 @@ python-docx
 reportlab
 cachetools
 openai
+python-dotenv
