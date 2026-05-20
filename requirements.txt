@@ -1,5 +1,4 @@
-cachetools
-concurrent-futures 
 streamlit
 python-docx
 reportlab
+cachetools
